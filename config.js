@@ -40,7 +40,7 @@ module.exports = {
 
   FORWARD: process.env.FORWARD || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
   
-  BOT_INFO: process.env.BOT_INFO || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu MD;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
+  BOT_INFO: process.env.BOT_INFO || 'Y̶A̶Q̶O̶O̶B̶ 𝐌𝐃 𝐁𝐎𝐓;~Y̶A̶Q̶O̶O̶B̶;Copyright by Y̶A̶Q̶O̶O̶B̶ MD;https://telegra.ph/file/bd33843477770dbaeb7fa.jpg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
